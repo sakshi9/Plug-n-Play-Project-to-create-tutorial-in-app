@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Guide To use ShadowFax</string>
+    <string name="action_settings">Settings</string>
+    <string name="password_hint">Password</string>
+    <string name="welcome_login">Please enter your login details</string>
+    <string name="sign_in_login">Sign In ></string>
+    <string name="start_app">Lets Start!</string>
+</resources>
