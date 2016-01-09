@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">tutorialLibrary</string>
+    <string name="got_it">Got It!</string>
+    <string name="title">One Time Tutorial</string>
+    <string name="content">You are done. To see it again, press soft back key an click on Lets Start.</string>
+    <string name="heading">Main Activity</string>
+
+</resources>
